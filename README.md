@@ -1,7 +1,6 @@
-# Trident HealthCare 
+# TriCare 
 
-Tri-Data Record System (Prototype). 
-TDRS is a blockchain based data/record storage system that lets you store your data on blockchain itself and not on a regular DB; this makes it less vulnerable to Ransomware attacks and guarantees data availability and security by applying the Blockchain protocols.
+TriCare is a blockchain based data/record storage system that lets you store your data on blockchain itself and not on a regular DB; this makes it less vulnerable to Ransomware attacks and guarantees data availability and security by applying the Blockchain protocols.
 
 To setup the project locally:
 
